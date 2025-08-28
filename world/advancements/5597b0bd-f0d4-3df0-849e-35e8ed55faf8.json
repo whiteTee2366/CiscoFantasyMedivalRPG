@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2025-08-28 23:22:30 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -328,9 +334,21 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-08-28 22:58:33 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-08-28 10:42:15 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:winter_harbinger": {
+    "criteria": {
+      "winter_harbinger": "2025-08-28 22:14:48 +0700"
     },
     "done": true
   },
@@ -491,7 +509,9 @@
       "minecraft:blaze": "2025-08-28 18:37:30 +0700",
       "minecraft:skeleton": "2025-08-28 10:38:39 +0700",
       "minecraft:ghast": "2025-08-28 17:32:29 +0700",
+      "minecraft:hoglin": "2025-08-28 22:47:44 +0700",
       "minecraft:vindicator": "2025-08-28 10:43:46 +0700",
+      "minecraft:magma_cube": "2025-08-28 22:47:54 +0700",
       "minecraft:spider": "2025-08-28 10:38:25 +0700",
       "minecraft:piglin_brute": "2025-08-28 18:25:43 +0700",
       "minecraft:creeper": "2025-08-28 17:15:36 +0700",
@@ -501,6 +521,7 @@
       "minecraft:husk": "2025-08-28 18:10:59 +0700",
       "minecraft:shulker": "2025-08-28 19:03:33 +0700",
       "minecraft:cave_spider": "2025-08-28 12:38:25 +0700",
+      "minecraft:piglin": "2025-08-28 22:41:40 +0700",
       "minecraft:silverfish": "2025-08-28 12:36:56 +0700",
       "minecraft:stray": "2025-08-28 12:35:39 +0700",
       "minecraft:enderman": "2025-08-28 21:02:08 +0700",
@@ -556,6 +577,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-08-28 12:22:09 +0700",
+      "spellstone4": "2025-08-28 22:58:33 +0700",
       "spellstone3": "2025-08-28 18:34:18 +0700",
       "spellstone5": "2025-08-28 17:06:20 +0700"
     },
@@ -702,6 +724,12 @@
   "royalvariations:bony_king": {
     "criteria": {
       "bony_king": "2025-08-28 18:16:27 +0700"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-08-28 23:22:49 +0700"
     },
     "done": true
   },
@@ -879,6 +907,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-08-28 22:28:34 +0700"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -972,6 +1006,12 @@
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:darksteel_advancement": {
+    "criteria": {
+      "darksteel_advancement": "2025-08-28 22:02:30 +0700"
     },
     "done": true
   },
@@ -1095,6 +1135,12 @@
     },
     "done": false
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-08-28 22:44:38 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 10:58:08 +0700"
@@ -1104,6 +1150,12 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-08-28 17:52:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-28 22:47:02 +0700"
     },
     "done": true
   },
@@ -1287,6 +1339,12 @@
     },
     "done": true
   },
+  "cisco_mod:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2025-08-28 22:25:52 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -1328,6 +1386,12 @@
       "log_spam_fixer": "2025-08-28 10:20:08 +0700"
     },
     "done": false
+  },
+  "cisco_mod:silver_wolfs_bite": {
+    "criteria": {
+      "silver_wolfs_bite": "2025-08-28 22:20:52 +0700"
+    },
+    "done": true
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -2219,6 +2283,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-08-28 22:41:40 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2025-08-28 17:39:32 +0700"
@@ -2277,7 +2347,8 @@
     "criteria": {
       "has_item_1": "2025-08-28 12:22:09 +0700",
       "has_item_5": "2025-08-28 17:06:20 +0700",
-      "has_item_3": "2025-08-28 18:34:18 +0700"
+      "has_item_3": "2025-08-28 18:34:18 +0700",
+      "has_item_4": "2025-08-28 22:58:33 +0700"
     },
     "done": false
   },
@@ -2393,7 +2464,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-08-28 21:34:50 +0700"
+      "target": "2025-08-28 23:24:55 +0700"
     },
     "done": false
   },
@@ -2412,6 +2483,12 @@
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2025-08-28 19:29:32 +0700"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2025-08-28 23:00:25 +0700"
     },
     "done": true
   },
@@ -2455,6 +2532,12 @@
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:20:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-08-28 22:44:33 +0700"
     },
     "done": true
   },

@@ -378,9 +378,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2025-08-28 23:02:57 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-08-28 22:19:14 +0700"
     },
     "done": true
   },
@@ -392,7 +404,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_fishing_ship": "2025-08-28 21:23:56 +0700"
+      "entered_fishing_ship": "2025-08-28 21:23:56 +0700",
+      "entered_deep_crypt": "2025-08-28 22:54:59 +0700"
     },
     "done": false
   },
@@ -486,6 +499,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-08-28 23:16:29 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 17:33:47 +0700"
@@ -528,6 +547,12 @@
     },
     "done": true
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-08-28 22:37:17 +0700"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-08-28 17:33:47 +0700"
@@ -537,6 +562,12 @@
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-28 22:55:10 +0700"
     },
     "done": true
   },
@@ -552,6 +583,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-28 22:33:31 +0700"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/root": {
     "criteria": {
       "supply_ship_placed": "2025-08-28 20:38:34 +0700"
@@ -561,6 +598,12 @@
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-08-28 23:19:29 +0700"
     },
     "done": true
   },
@@ -719,6 +762,8 @@
       "minecraft:spider": "2025-08-28 21:08:41 +0700",
       "minecraft:creeper": "2025-08-28 21:08:38 +0700",
       "minecraft:husk": "2025-08-28 18:01:17 +0700",
+      "minecraft:cave_spider": "2025-08-28 23:25:14 +0700",
+      "minecraft:stray": "2025-08-28 23:26:28 +0700",
       "minecraft:zombie": "2025-08-28 17:58:54 +0700",
       "savage_and_ravage:skeleton_villager": "2025-08-28 17:58:48 +0700"
     },
@@ -807,6 +852,12 @@
       "brewingstand": "2025-08-28 18:24:58 +0700"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-08-28 22:19:14 +0700"
+    },
+    "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -980,6 +1031,12 @@
   "enigmaticaddons:book/relics/lost_engine": {
     "criteria": {
       "has_items": "2025-08-28 18:32:33 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/seashelf": {
+    "criteria": {
+      "seashelf": "2025-08-28 22:15:21 +0700"
     },
     "done": true
   },
@@ -1285,6 +1342,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-08-28 22:30:45 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-08-28 17:33:47 +0700"
@@ -1384,6 +1447,12 @@
   "enigmaticaddons:book/accessories/thunder_scroll": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-08-28 23:09:12 +0700"
     },
     "done": true
   },
@@ -1517,11 +1586,14 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-08-28 18:14:50 +0700",
+      "byg:rainbow_beach": "2025-08-28 22:45:42 +0700",
       "byg:red_oak_forest": "2025-08-28 20:44:30 +0700",
       "byg:autumnal_forest": "2025-08-28 20:47:45 +0700",
       "byg:magma_wastes": "2025-08-28 19:50:05 +0700",
       "byg:red_rock_valley": "2025-08-28 18:58:16 +0700",
+      "byg:skyris_vale": "2025-08-28 23:17:59 +0700",
       "byg:baobab_savanna": "2025-08-28 20:58:16 +0700",
+      "byg:amaranth_fields": "2025-08-28 22:45:39 +0700",
       "byg:lush_stacks": "2025-08-28 19:05:36 +0700",
       "byg:basalt_barrera": "2025-08-28 20:43:46 +0700",
       "byg:temperate_rainforest": "2025-08-28 20:43:53 +0700",
@@ -1573,24 +1645,34 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-28 20:47:26 +0700",
       "minecraft:mushroom_fields": "2025-08-28 20:48:26 +0700",
+      "minecraft:taiga": "2025-08-28 22:56:06 +0700",
       "minecraft:deep_ocean": "2025-08-28 20:39:37 +0700",
+      "atmospheric:rainforest_basin": "2025-08-28 22:45:53 +0700",
+      "atmospheric:rainforest": "2025-08-28 22:45:58 +0700",
       "minecraft:eroded_badlands": "2025-08-28 18:58:11 +0700",
+      "minecraft:birch_forest": "2025-08-28 23:17:33 +0700",
+      "minecraft:bamboo_jungle": "2025-08-28 23:18:58 +0700",
       "minecraft:badlands": "2025-08-28 18:58:13 +0700",
       "minecraft:beach": "2025-08-28 17:37:49 +0700",
       "minecraft:dark_forest": "2025-08-28 18:46:02 +0700",
+      "minecraft:mangrove_swamp": "2025-08-28 23:19:03 +0700",
+      "minecraft:sparse_jungle": "2025-08-28 23:18:59 +0700",
       "minecraft:lukewarm_ocean": "2025-08-28 18:24:06 +0700",
       "minecraft:river": "2025-08-28 18:21:16 +0700",
       "minecraft:snowy_plains": "2025-08-28 20:47:48 +0700",
       "minecraft:stony_shore": "2025-08-28 20:03:04 +0700",
       "atmospheric:snowy_scrubland": "2025-08-28 20:47:53 +0700",
+      "minecraft:grove": "2025-08-28 23:17:34 +0700",
       "minecraft:cold_ocean": "2025-08-28 20:46:40 +0700",
       "atmospheric:aspen_parkland": "2025-08-28 20:43:45 +0700",
       "minecraft:forest": "2025-08-28 17:37:19 +0700",
       "minecraft:lush_caves": "2025-08-28 18:01:08 +0700",
+      "minecraft:deep_cold_ocean": "2025-08-28 23:18:17 +0700",
       "minecraft:frozen_ocean": "2025-08-28 20:48:01 +0700",
       "minecraft:desert": "2025-08-28 18:55:19 +0700",
       "minecraft:deep_frozen_ocean": "2025-08-28 20:48:02 +0700",
       "minecraft:ocean": "2025-08-28 17:44:42 +0700",
+      "minecraft:jungle": "2025-08-28 23:19:09 +0700",
       "minecraft:snowy_beach": "2025-08-28 20:48:00 +0700",
       "minecraft:warm_ocean": "2025-08-28 18:55:17 +0700",
       "minecraft:deep_lukewarm_ocean": "2025-08-28 18:55:01 +0700",
@@ -1739,6 +1821,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:lucky_rock": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-28 22:53:17 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -1748,6 +1836,12 @@
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 17:33:47 +0700"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-08-28 22:54:59 +0700"
     },
     "done": false
   },
@@ -1800,6 +1894,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-08-28 22:26:18 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -1839,6 +1939,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-08-28 20:42:33 +0700"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-08-28 23:26:16 +0700"
     },
     "done": true
   },
@@ -1887,6 +1993,12 @@
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-08-28 22:38:07 +0700"
     },
     "done": true
   },

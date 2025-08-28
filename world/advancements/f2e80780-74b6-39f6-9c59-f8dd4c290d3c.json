@@ -174,6 +174,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-28 22:30:37 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -1154,6 +1160,12 @@
     },
     "done": true
   },
+  "cisco_mod:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2025-08-28 22:25:29 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -1270,6 +1282,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-08-28 22:30:37 +0700",
       "incendium:quartz_flats": "2025-08-28 13:11:09 +0700"
     },
     "done": false
@@ -2073,10 +2086,12 @@
       "byg:sythian_torrids": "2025-08-28 20:55:02 +0700",
       "byg:autumnal_forest": "2025-08-28 20:58:40 +0700",
       "byg:magma_wastes": "2025-08-28 13:10:46 +0700",
+      "byg:subzero_hypogeal": "2025-08-28 22:29:50 +0700",
       "byg:embur_bog": "2025-08-28 21:40:20 +0700",
       "byg:wailing_garth": "2025-08-28 21:40:19 +0700",
       "byg:dacite_ridges": "2025-08-28 12:35:15 +0700",
       "byg:aspen_forest": "2025-08-28 12:33:18 +0700",
+      "byg:brimstone_caverns": "2025-08-28 22:30:40 +0700",
       "byg:coniferous_forest": "2025-08-28 14:40:42 +0700",
       "byg:basalt_barrera": "2025-08-28 13:01:48 +0700",
       "byg:temperate_rainforest": "2025-08-28 12:12:24 +0700",

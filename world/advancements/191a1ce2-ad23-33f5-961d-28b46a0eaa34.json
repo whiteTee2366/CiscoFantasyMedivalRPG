@@ -1582,6 +1582,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-08-28 22:35:37 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-28 10:38:13 +0700"
@@ -1738,6 +1744,8 @@
       "byg:allium_fields": "2025-08-28 11:11:42 +0700",
       "byg:autumnal_forest": "2025-08-28 18:12:42 +0700",
       "byg:magma_wastes": "2025-08-28 15:02:58 +0700",
+      "byg:subzero_hypogeal": "2025-08-28 22:30:11 +0700",
+      "byg:embur_bog": "2025-08-28 22:27:07 +0700",
       "byg:dacite_ridges": "2025-08-28 12:27:01 +0700",
       "byg:aspen_forest": "2025-08-28 10:47:34 +0700",
       "byg:coniferous_forest": "2025-08-28 14:44:37 +0700",
