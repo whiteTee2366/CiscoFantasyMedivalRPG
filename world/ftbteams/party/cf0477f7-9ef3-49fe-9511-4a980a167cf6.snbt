@@ -28,6 +28,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1756352529227L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NiceNekio\"}]}" }
 		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756352529232L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"levents_\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1756352531732L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"levents_\"}]}" }
+		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756366935886L, text: "{\"text\":\"dsadas\"}" }
 	]
 	extra: { }
 }
