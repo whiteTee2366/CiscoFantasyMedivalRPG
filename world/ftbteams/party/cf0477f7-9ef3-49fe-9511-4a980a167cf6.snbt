@@ -9,7 +9,7 @@
 	properties: {
 		"ftbteams:display_name": "NiceNekio's Party"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF6D59"
+		"ftbteams:color": "#FFB559"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
