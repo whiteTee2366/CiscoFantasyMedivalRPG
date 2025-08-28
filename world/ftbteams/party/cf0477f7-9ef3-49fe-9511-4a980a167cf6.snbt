@@ -1,0 +1,33 @@
+{
+	id: "cf0477f7-9ef3-49fe-9511-4a980a167cf6"
+	type: "party"
+	owner: "15143444-a435-38a0-a4ab-b6d4cc2f441a"
+	ranks: {
+		a5682ea7-67d6-388f-86b3-f9c56ce128a5: "member"
+		15143444-a435-38a0-a4ab-b6d4cc2f441a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NiceNekio's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756352529227L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NiceNekio\"}]}" }
+		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756352529232L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"levents_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756352531732L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"levents_\"}]}" }
+	]
+	extra: { }
+}

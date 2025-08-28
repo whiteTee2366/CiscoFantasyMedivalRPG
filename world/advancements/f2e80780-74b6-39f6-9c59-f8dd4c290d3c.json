@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-28 10:29:16 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:20:54 +0700"
@@ -534,6 +540,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-08-28 10:29:16 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -567,6 +579,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-28 10:29:55 +0700"
     },
     "done": true
   },
@@ -672,17 +690,17 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-28 10:20:54 +0700"
-    },
-    "done": false
-  },
   "vinery:cherry_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-28 10:20:54 +0700"
+    },
+    "done": false
   },
   "vinery:grass_slab": {
     "criteria": {
@@ -954,23 +972,29 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-28 10:20:54 +0700"
-    },
-    "done": false
-  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-28 10:20:54 +0700"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-08-28 10:20:54 +0700"
     },
     "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-28 10:29:16 +0700"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {

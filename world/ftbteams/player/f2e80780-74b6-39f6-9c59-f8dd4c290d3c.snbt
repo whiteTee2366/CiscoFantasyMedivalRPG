@@ -2,9 +2,7 @@
 	id: "f2e80780-74b6-39f6-9c59-f8dd4c290d3c"
 	type: "player"
 	player_name: "Peguiinn"
-	ranks: {
-		f2e80780-74b6-39f6-9c59-f8dd4c290d3c: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Peguiinn"
 		"ftbteams:description": ""

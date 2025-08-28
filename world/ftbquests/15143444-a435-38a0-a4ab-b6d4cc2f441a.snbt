@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "15143444a43538a0a4abb6d4cc2f441a"
+	name: "NiceNekio"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1756352331227L
+		6F010E22CD886969: 1756352331227L
+		0000000000000001: 1756352331227L
+		744084D7C7EA8A6C: 1756352331227L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1756352331228L
+		6F010E22CD886969: 1756352331228L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
