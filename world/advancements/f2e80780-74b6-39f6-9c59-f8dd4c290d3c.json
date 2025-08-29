@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "scale": "2025-08-29 18:21:54 +0700"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -111,6 +117,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-08-29 12:27:34 +0700"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_blaze_tower": "2025-08-29 19:09:28 +0700"
     },
     "done": true
   },
@@ -428,6 +440,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-08-29 18:23:59 +0700",
+      "trophy_pedestal": "2025-08-29 18:37:22 +0700"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2025-08-29 14:59:48 +0700"
@@ -443,6 +462,12 @@
   "enigmaticlegacy:recipes/generic/enchantment_transposer": {
     "criteria": {
       "has_items": "2025-08-29 13:58:09 +0700"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+    "criteria": {
+      "requirement": "2025-08-29 19:09:28 +0700"
     },
     "done": true
   },
@@ -559,6 +584,7 @@
       "minecraft:spider": "2025-08-29 14:59:37 +0700",
       "minecraft:creeper": "2025-08-29 13:20:43 +0700",
       "minecraft:slime": "2025-08-29 16:05:12 +0700",
+      "minecraft:witch": "2025-08-29 19:06:50 +0700",
       "minecraft:wither_skeleton": "2025-08-29 16:10:55 +0700",
       "minecraft:husk": "2025-08-28 13:54:46 +0700",
       "minecraft:cave_spider": "2025-08-29 14:41:03 +0700",
@@ -640,6 +666,12 @@
     },
     "done": true
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-08-29 18:44:01 +0700"
+    },
+    "done": true
+  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-08-28 10:20:53 +0700"
@@ -652,9 +684,22 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-08-29 18:45:50 +0700",
+      "queen": "2025-08-29 18:48:53 +0700"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "boar": "2025-08-29 18:21:41 +0700"
     },
     "done": true
   },
@@ -681,6 +726,12 @@
       "killed_by": "2025-08-29 12:51:17 +0700"
     },
     "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2025-08-29 18:49:17 +0700"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
@@ -796,6 +847,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-08-29 18:19:30 +0700"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -814,11 +871,23 @@
     },
     "done": false
   },
+  "cisco_mod:herald_of_ragnarok": {
+    "criteria": {
+      "herald_of_ragnarok": "2025-08-29 19:02:59 +0700"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-08-29 13:43:47 +0700"
     },
     "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-08-29 18:48:53 +0700"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/rocky_chestplate": {
     "criteria": {
@@ -949,6 +1018,14 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-08-29 18:32:11 +0700",
+      "snow_queen": "2025-08-29 18:48:53 +0700",
+      "ur_ghast": "2025-08-29 18:44:04 +0700"
     },
     "done": true
   },
@@ -1096,6 +1173,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-08-29 18:42:45 +0700",
+      "previous_progression": "2025-08-29 18:37:22 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:20:54 +0700"
@@ -1163,6 +1247,13 @@
   "enigmaticlegacy:recipes/generic/extradimensional_eye": {
     "criteria": {
       "has_items": "2025-08-28 20:19:24 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-08-29 18:29:10 +0700",
+      "kill_lich": "2025-08-29 18:23:59 +0700"
     },
     "done": true
   },
@@ -1377,6 +1468,12 @@
       "has_parent_recipe": "2025-08-29 13:58:09 +0700"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 18:19:30 +0700"
+    },
+    "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
@@ -1600,9 +1697,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-08-28 12:57:17 +0700"
+      "has_parent_recipe": "2025-08-28 12:57:17 +0700",
+      "has_items": "2025-08-29 18:19:30 +0700"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -1693,9 +1791,12 @@
       "cooked_beef": "2025-08-28 12:36:35 +0700",
       "baked_potato": "2025-08-29 13:28:26 +0700",
       "porkchop": "2025-08-28 14:54:35 +0700",
+      "cooked_chicken": "2025-08-29 18:38:53 +0700",
       "apple": "2025-08-28 13:57:08 +0700",
+      "spider_eye": "2025-08-29 18:46:17 +0700",
       "potato": "2025-08-28 12:17:07 +0700",
       "golden_apple": "2025-08-29 16:44:34 +0700",
+      "rotten_flesh": "2025-08-29 18:18:27 +0700",
       "melon_slice": "2025-08-28 12:34:16 +0700",
       "enchanted_golden_apple": "2025-08-29 16:36:33 +0700",
       "cooked_salmon": "2025-08-29 16:27:14 +0700",
@@ -1727,6 +1828,13 @@
     },
     "done": false
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2025-08-29 18:32:11 +0700",
+      "stroganoff": "2025-08-29 18:29:10 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infinimeal": {
     "criteria": {
       "has_items": "2025-08-28 15:00:18 +0700"
@@ -1756,6 +1864,12 @@
       "spellstone": "2025-08-28 12:49:12 +0700"
     },
     "done": true
+  },
+  "twilightforest:progress_castle": {
+    "criteria": {
+      "castle": "2025-08-29 18:50:13 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/misc/lore_inscriber": {
     "criteria": {
@@ -1828,6 +1942,12 @@
       "loot_stat": "2025-08-28 12:16:37 +0700"
     },
     "done": true
+  },
+  "twilightforest:progress_thorns": {
+    "criteria": {
+      "castle": "2025-08-29 18:50:13 +0700"
+    },
+    "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
@@ -1921,9 +2041,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-08-29 18:19:30 +0700",
       "has_items": "2025-08-28 15:00:49 +0700"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -1961,6 +2082,12 @@
       "cauldron": "2025-08-29 13:48:10 +0700"
     },
     "done": false
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-08-29 18:21:14 +0700"
+    },
+    "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -2204,6 +2331,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-08-29 18:42:45 +0700",
+      "ghast": "2025-08-29 18:44:04 +0700"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-08-28 13:34:09 +0700"
@@ -2380,6 +2514,13 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-08-29 18:29:10 +0700",
+      "hydra_chop": "2025-08-29 18:32:30 +0700"
+    },
+    "done": false
+  },
   "blue_skies:thinking_with_portals": {
     "criteria": {
       "enter_everbright": "2025-08-29 13:25:58 +0700"
@@ -2496,6 +2637,12 @@
       "enchanted_item": "2025-08-29 12:24:34 +0700"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-08-29 19:10:24 +0700"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -2675,6 +2822,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-08-29 18:23:59 +0700",
+      "yeti": "2025-08-29 18:45:50 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_ingot": {
     "criteria": {
       "has_items": "2025-08-28 15:02:37 +0700"
@@ -2714,6 +2868,13 @@
   "enigmaticlegacy:main/astral_dust": {
     "criteria": {
       "etherium": "2025-08-28 15:00:49 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-08-29 18:23:59 +0700",
+      "kill_naga": "2025-08-29 18:21:54 +0700"
     },
     "done": true
   },
