@@ -2,9 +2,7 @@
 	id: "e60daef4-1965-3691-8b3d-86beed23d5b5"
 	type: "player"
 	player_name: "Mastercheng6008"
-	ranks: {
-		e60daef4-1965-3691-8b3d-86beed23d5b5: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Mastercheng6008"
 		"ftbteams:description": ""

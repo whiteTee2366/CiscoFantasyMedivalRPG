@@ -1,0 +1,29 @@
+{
+	id: "a4957f6b-74eb-4cdb-8084-c08a93e0c341"
+	type: "party"
+	owner: "2696906f-3fdd-3d6c-99af-62d6d9d77e79"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "_ukion_'s Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756456183521L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"_ukion_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756456345664L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"_ukion_\"}]}" }
+	]
+	extra: { }
+}

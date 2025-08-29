@@ -1,10 +1,9 @@
 {
 	id: "cf0477f7-9ef3-49fe-9511-4a980a167cf6"
 	type: "party"
-	owner: "15143444-a435-38a0-a4ab-b6d4cc2f441a"
+	owner: "a5682ea7-67d6-388f-86b3-f9c56ce128a5"
 	ranks: {
-		a5682ea7-67d6-388f-86b3-f9c56ce128a5: "member"
-		15143444-a435-38a0-a4ab-b6d4cc2f441a: "owner"
+		a5682ea7-67d6-388f-86b3-f9c56ce128a5: "owner"
 	}
 	properties: {
 		"ftbteams:display_name": "NiceNekio's Party"
@@ -29,6 +28,8 @@
 		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756352529232L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"levents_\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1756352531732L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"levents_\"}]}" }
 		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756366935886L, text: "{\"text\":\"dsadas\"}" }
+		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756456452823L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"color\":\"yellow\",\"text\":\"levents_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756456455774L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"NiceNekio\"}]}" }
 	]
 	extra: { }
 }

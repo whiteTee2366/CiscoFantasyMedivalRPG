@@ -2,9 +2,7 @@
 	id: "2696906f-3fdd-3d6c-99af-62d6d9d77e79"
 	type: "player"
 	player_name: "_ukion_"
-	ranks: {
-		2696906f-3fdd-3d6c-99af-62d6d9d77e79: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "_ukion_"
 		"ftbteams:description": ""
