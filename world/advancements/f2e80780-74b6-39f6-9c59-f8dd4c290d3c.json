@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-08-29 19:51:46 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-08-28 15:32:43 +0700",
@@ -583,6 +589,7 @@
       "minecraft:ghast": "2025-08-28 20:51:13 +0700",
       "minecraft:spider": "2025-08-29 14:59:37 +0700",
       "minecraft:creeper": "2025-08-29 13:20:43 +0700",
+      "minecraft:wither": "2025-08-29 19:59:09 +0700",
       "minecraft:slime": "2025-08-29 16:05:12 +0700",
       "minecraft:witch": "2025-08-29 19:06:50 +0700",
       "minecraft:wither_skeleton": "2025-08-29 16:10:55 +0700",
@@ -778,6 +785,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-08-29 19:59:51 +0700"
     },
     "done": true
   },
@@ -2523,9 +2536,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everbright": "2025-08-29 13:25:58 +0700"
+      "enter_everbright": "2025-08-29 13:25:58 +0700",
+      "enter_everdawn": "2025-08-29 19:51:46 +0700"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
@@ -2579,6 +2593,7 @@
       "byg:basalt_barrera": "2025-08-28 13:01:48 +0700",
       "byg:temperate_rainforest": "2025-08-28 12:12:24 +0700",
       "byg:maple_taiga": "2025-08-28 20:58:44 +0700",
+      "byg:mojave_desert": "2025-08-29 19:51:34 +0700",
       "byg:windswept_desert": "2025-08-28 15:02:44 +0700",
       "byg:frosted_taiga": "2025-08-28 21:00:33 +0700"
     },
@@ -2637,12 +2652,6 @@
       "enchanted_item": "2025-08-29 12:24:34 +0700"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-08-29 19:10:24 +0700"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

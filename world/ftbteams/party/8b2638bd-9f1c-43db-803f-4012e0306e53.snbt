@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "5597b0bd-f0d4-3df0-849e-35e8ed55faf8"
 	ranks: {
+		a5682ea7-67d6-388f-86b3-f9c56ce128a5: "member"
 		5597b0bd-f0d4-3df0-849e-35e8ed55faf8: "owner"
 		e60daef4-1965-3691-8b3d-86beed23d5b5: "member"
 		f2e80780-74b6-39f6-9c59-f8dd4c290d3c: "member"
@@ -41,6 +42,8 @@
 		{ from: "15143444-a435-38a0-a4ab-b6d4cc2f441a", date: 1756457976831L, text: "{\"text\":\"co ai gay ko\"}" }
 		{ from: "5597b0bd-f0d4-3df0-849e-35e8ed55faf8", date: 1756458685612L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Mastercheng6008\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1756458688316L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Mastercheng6008\"}]}" }
+		{ from: "5597b0bd-f0d4-3df0-849e-35e8ed55faf8", date: 1756473898221L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"levents_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756473900461L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"levents_\"}]}" }
 	]
 	extra: { }
 }

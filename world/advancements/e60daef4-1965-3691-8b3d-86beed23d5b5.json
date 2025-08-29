@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_chestplate": "2025-08-29 20:10:36 +0700"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-08-28 12:59:04 +0700"
@@ -111,6 +117,12 @@
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-08-28 12:59:04 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-08-29 20:59:38 +0700"
     },
     "done": true
   },
@@ -396,6 +408,13 @@
       "has_items": "2025-08-29 09:54:45 +0700"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2025-08-29 20:59:44 +0700",
+      "canopy_sapling": "2025-08-29 20:47:39 +0700"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
@@ -839,6 +858,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-08-29 20:47:01 +0700"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-08-28 12:59:04 +0700"
@@ -868,6 +893,12 @@
       "has_recipe": "2025-08-28 12:59:04 +0700"
     },
     "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_emberback": "2025-08-29 19:57:04 +0700"
+    },
+    "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
@@ -902,6 +933,12 @@
   "morevillagers:kill_villager": {
     "criteria": {
       "killedvillager": "2025-08-28 14:04:46 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "boar": "2025-08-29 20:47:34 +0700"
     },
     "done": true
   },
@@ -1121,6 +1158,12 @@
       "log_spam_fixer": "2025-08-28 12:59:05 +0700"
     },
     "done": false
+  },
+  "cisco_mod:herald_of_ragnarok": {
+    "criteria": {
+      "herald_of_ragnarok": "2025-08-29 19:55:37 +0700"
+    },
+    "done": true
   },
   "vinery:grass_slab": {
     "criteria": {
@@ -1387,6 +1430,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-08-29 20:08:54 +0700"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-08-28 12:59:04 +0700"
@@ -1621,21 +1670,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-08-29 16:16:36 +0700",
-      "!bit14": "2025-08-29 16:16:36 +0700",
-      "!bit11": "2025-08-29 16:16:36 +0700",
-      "!bit12": "2025-08-29 16:16:36 +0700",
-      "!bit10": "2025-08-29 16:16:36 +0700",
-      "!bit9": "2025-08-29 16:16:36 +0700",
-      "!bit8": "2025-08-29 16:16:36 +0700",
-      "!bit7": "2025-08-29 16:16:36 +0700",
-      "!bit6": "2025-08-29 16:16:36 +0700",
-      "!bit5": "2025-08-29 16:16:36 +0700",
-      "!bit4": "2025-08-29 16:16:36 +0700",
-      "!bit3": "2025-08-29 16:16:36 +0700",
-      "!bit2": "2025-08-29 16:16:36 +0700",
-      "!bit1": "2025-08-29 16:16:36 +0700",
-      "!bit0": "2025-08-29 16:16:36 +0700"
+      "!bit13": "2025-08-29 20:59:38 +0700",
+      "!bit14": "2025-08-29 20:59:38 +0700",
+      "!bit11": "2025-08-29 20:59:38 +0700",
+      "!bit12": "2025-08-29 20:59:38 +0700",
+      "!bit10": "2025-08-29 20:59:38 +0700",
+      "!bit9": "2025-08-29 20:59:38 +0700",
+      "!bit8": "2025-08-29 20:59:38 +0700",
+      "!bit7": "2025-08-29 20:59:38 +0700",
+      "!bit6": "2025-08-29 20:59:38 +0700",
+      "!bit5": "2025-08-29 20:59:38 +0700",
+      "!bit4": "2025-08-29 20:59:38 +0700",
+      "!bit3": "2025-08-29 20:59:38 +0700",
+      "!bit2": "2025-08-29 20:59:38 +0700",
+      "!bit1": "2025-08-29 20:59:38 +0700",
+      "!bit0": "2025-08-29 20:59:38 +0700"
     },
     "done": false
   },
@@ -1929,6 +1978,12 @@
       "has_the_recipe": "2025-08-28 12:59:04 +0700"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-08-29 20:59:38 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {

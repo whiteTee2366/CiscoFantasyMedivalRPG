@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-08-29 20:46:31 +0700"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -198,6 +204,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-08-29 20:46:31 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -237,6 +249,12 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-08-29 09:42:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-29 21:05:20 +0700"
     },
     "done": true
   },
@@ -619,6 +637,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-08-29 21:08:33 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -973,6 +997,7 @@
       "minecraft:eroded_badlands": "2025-08-28 18:58:11 +0700",
       "minecraft:birch_forest": "2025-08-28 23:17:33 +0700",
       "minecraft:bamboo_jungle": "2025-08-28 23:18:58 +0700",
+      "minecraft:wooded_badlands": "2025-08-29 21:21:55 +0700",
       "minecraft:badlands": "2025-08-28 18:58:13 +0700",
       "minecraft:savanna_plateau": "2025-08-29 14:27:06 +0700",
       "minecraft:beach": "2025-08-28 17:37:49 +0700",
@@ -1278,6 +1303,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-08-29 20:46:31 +0700"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-08-28 17:55:35 +0700"
@@ -1383,6 +1414,12 @@
   "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
     "criteria": {
       "has_white_wool": "2025-08-29 12:43:42 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-08-29 20:46:31 +0700"
     },
     "done": true
   },
@@ -2255,6 +2292,12 @@
       "byg:frosted_taiga": "2025-08-28 20:47:47 +0700"
     },
     "done": false
+  },
+  "majruszsaccessories:miner_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-29 21:04:14 +0700"
+    },
+    "done": true
   },
   "comforts:hammock_brown_from_white": {
     "criteria": {
