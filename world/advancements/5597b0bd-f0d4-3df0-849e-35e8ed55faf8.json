@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "cisco_mod:balance_unbound": {
+    "criteria": {
+      "balance_unbound": "2025-08-31 00:53:57 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -47,10 +53,22 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-08-30 23:01:17 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 10:28:12 +0700",
       "has_items": "2025-08-28 10:42:20 +0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-08-30 20:25:58 +0700"
     },
     "done": true
   },
@@ -87,6 +105,12 @@
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "trophy": "2025-08-30 21:04:12 +0700"
     },
     "done": true
   },
@@ -324,6 +348,12 @@
     },
     "done": true
   },
+  "cisco_mod:fallen_armorgivead": {
+    "criteria": {
+      "fallen_armorgivead": "2025-08-31 00:58:58 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -549,6 +579,12 @@
       "sword": "2025-08-28 17:29:43 +0700"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-08-30 21:04:17 +0700"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
@@ -865,6 +901,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-08-30 21:04:17 +0700",
+      "trophy": "2025-08-30 21:04:17 +0700"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -928,6 +971,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-08-29 10:56:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-31 00:53:58 +0700"
     },
     "done": true
   },
@@ -1022,9 +1071,21 @@
     },
     "done": true
   },
+  "cisco_mod:ashesof_allegiance": {
+    "criteria": {
+      "ashesof_allegiance": "2025-08-31 00:38:55 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium": {
     "criteria": {
       "has_items": "2025-08-29 08:53:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-08-30 20:50:35 +0700"
     },
     "done": true
   },
@@ -1097,6 +1158,12 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-08-29 16:31:38 +0700"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2025-08-30 22:53:51 +0700"
     },
     "done": true
   },
@@ -1250,6 +1317,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-08-30 21:04:17 +0700"
+    },
+    "done": false
+  },
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -1308,6 +1381,12 @@
   "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
     "criteria": {
       "has_resource": "2025-08-29 09:21:18 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:nightfall_ad": {
+    "criteria": {
+      "nightfall_ad": "2025-08-31 00:52:09 +0700"
     },
     "done": true
   },
@@ -1461,6 +1540,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "trophy": "2025-08-30 21:04:15 +0700"
+    },
+    "done": false
+  },
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:20:08 +0700"
@@ -1559,6 +1644,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-08-30 21:04:17 +0700"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:20:08 +0700"
@@ -1646,6 +1737,12 @@
   "enigmaticlegacy:recipes/generic/lore_inscriber": {
     "criteria": {
       "has_recipe_result": "2025-08-28 17:17:24 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-08-30 23:07:52 +0700"
     },
     "done": true
   },
@@ -1851,6 +1948,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-31 00:55:44 +0700"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-08-29 10:58:31 +0700"
@@ -1971,6 +2074,12 @@
     },
     "done": true
   },
+  "cisco_mod:cisco_armor_advancement": {
+    "criteria": {
+      "cisco_armor_advancement": "2025-08-31 00:57:12 +0700"
+    },
+    "done": true
+  },
   "cisco_mod:silver_wolfs_bite": {
     "criteria": {
       "silver_wolfs_bite": "2025-08-28 22:20:52 +0700"
@@ -2016,6 +2125,12 @@
   "enigmaticlegacy:book/misc/astral_potato": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:20:34 +0700"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-08-31 01:41:29 +0700"
     },
     "done": true
   },
@@ -2124,6 +2239,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-08-30 20:36:04 +0700"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-08-28 10:20:06 +0700",
@@ -2140,6 +2261,12 @@
   "dungeons_enhanced:in_the_air": {
     "criteria": {
       "entered_flying_dutchman": "2025-08-28 11:09:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-08-30 20:50:35 +0700"
     },
     "done": true
   },
@@ -2272,6 +2399,12 @@
     },
     "done": false
   },
+  "cisco_mod:regicide": {
+    "criteria": {
+      "regicide": "2025-08-31 00:49:28 +0700"
+    },
+    "done": true
+  },
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -2326,6 +2459,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "trophy": "2025-08-30 21:04:15 +0700"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/infinimeal": {
     "criteria": {
       "has_items": "2025-08-28 12:24:44 +0700"
@@ -2341,6 +2480,12 @@
   "simplyswords:icewhisper": {
     "criteria": {
       "requirement": "2025-08-28 21:15:41 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:size_matters": {
+    "criteria": {
+      "size_matters": "2025-08-31 00:59:22 +0700"
     },
     "done": true
   },
@@ -2386,15 +2531,31 @@
     },
     "done": true
   },
+  "cisco_mod:anewlegend": {
+    "criteria": {
+      "anewlegend": "2025-08-31 00:39:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-28 10:29:09 +0700"
     },
     "done": true
   },
+  "cisco_mod:trials_and_talismans": {
+    "criteria": {
+      "trials_and_talismans": "2025-08-31 00:39:26 +0700"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-08-30 13:03:04 +0700"
+      "shattered": "2025-08-30 23:09:11 +0700",
+      "phantom": "2025-08-30 13:03:04 +0700",
+      "sculk_centipede": "2025-08-30 23:09:06 +0700",
+      "sculk_leech": "2025-08-30 23:02:05 +0700",
+      "warden": "2025-08-30 22:56:53 +0700"
     },
     "done": false
   },
@@ -2562,6 +2723,12 @@
     },
     "done": true
   },
+  "cisco_mod:awakened_equllibrium_advancement": {
+    "criteria": {
+      "awakened_equllibrium_advancement": "2025-08-31 00:39:53 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-28 12:12:35 +0700"
@@ -2614,6 +2781,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-08-30 21:52:49 +0700"
     },
     "done": true
   },
@@ -2698,6 +2871,12 @@
   "cisco_mod:ancient_craftmanship": {
     "criteria": {
       "ancient_craftmanship": "2025-08-29 09:46:11 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-30 21:02:59 +0700"
     },
     "done": true
   },
@@ -2897,6 +3076,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-08-30 20:17:50 +0700"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-08-28 18:51:56 +0700"
@@ -2944,6 +3129,24 @@
       "deep_aether:golden_heights": "2025-08-30 12:23:09 +0700"
     },
     "done": false
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "trophy": "2025-08-30 21:04:21 +0700"
+    },
+    "done": false
+  },
+  "cisco_mod:infernal_demons_wrath": {
+    "criteria": {
+      "infernal_demons_wrath": "2025-08-30 22:32:29 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-08-30 22:56:53 +0700"
+    },
+    "done": true
   },
   "apotheosis:spawner/capturing": {
     "criteria": {
@@ -3004,6 +3207,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-08-29 13:31:32 +0700"
+    },
+    "done": true
+  },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2025-08-30 22:44:57 +0700"
     },
     "done": true
   },
@@ -3125,6 +3334,14 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-28 10:28:50 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-08-30 23:01:18 +0700",
+      "deeplands": "2025-08-30 23:01:38 +0700",
+      "echoing_forest": "2025-08-30 23:06:36 +0700"
     },
     "done": true
   },
@@ -3554,6 +3771,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-08-30 22:59:39 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -3563,6 +3786,13 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-08-30 21:04:17 +0700",
+      "trophy": "2025-08-30 21:04:11 +0700"
     },
     "done": true
   },
@@ -3623,6 +3853,13 @@
   "enigmaticlegacy:main/astral_dust": {
     "criteria": {
       "etherium": "2025-08-28 17:20:34 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2025-08-30 21:04:17 +0700",
+      "kill_naga": "2025-08-30 21:04:12 +0700"
     },
     "done": true
   },
