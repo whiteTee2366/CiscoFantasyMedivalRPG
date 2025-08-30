@@ -282,9 +282,21 @@
     },
     "done": true
   },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-08-30 13:35:07 +0700"
+    },
+    "done": true
+  },
   "vinery:cherry_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-08-30 13:33:40 +0700"
     },
     "done": true
   },
@@ -303,6 +315,12 @@
   "apotheosis:enchanting/quanta100": {
     "criteria": {
       "enchanted_item": "2025-08-29 15:46:39 +0700"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-08-30 12:26:31 +0700"
     },
     "done": true
   },
@@ -710,6 +728,7 @@
       "minecraft:creeper": "2025-08-28 17:15:36 +0700",
       "minecraft:wither": "2025-08-29 10:20:01 +0700",
       "minecraft:evoker": "2025-08-28 20:06:31 +0700",
+      "minecraft:phantom": "2025-08-30 13:03:04 +0700",
       "minecraft:zombified_piglin": "2025-08-29 08:48:50 +0700",
       "minecraft:witch": "2025-08-28 10:50:01 +0700",
       "minecraft:wither_skeleton": "2025-08-28 18:45:45 +0700",
@@ -973,6 +992,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-08-30 13:26:30 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -1116,6 +1141,12 @@
       "has_item_2": "2025-08-29 08:53:57 +0700"
     },
     "done": false
+  },
+  "blue_skies:progression/unlock_poison_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-08-30 11:49:10 +0700"
+    },
+    "done": true
   },
   "comforts:hammock_light_gray": {
     "criteria": {
@@ -1552,6 +1583,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-30 13:05:42 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -1678,6 +1715,12 @@
     },
     "done": true
   },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-08-30 12:49:50 +0700"
+    },
+    "done": true
+  },
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -1743,9 +1786,10 @@
       "minecraft:crimson_forest": "2025-08-29 09:04:57 +0700",
       "minecraft:nether_wastes": "2025-08-29 16:31:38 +0700",
       "minecraft:soul_sand_valley": "2025-08-29 20:30:55 +0700",
-      "minecraft:basalt_deltas": "2025-08-29 20:38:52 +0700"
+      "minecraft:basalt_deltas": "2025-08-29 20:38:52 +0700",
+      "minecraft:warped_forest": "2025-08-30 13:26:33 +0700"
     },
-    "done": false
+    "done": true
   },
   "simplyswords:shadowsting": {
     "criteria": {
@@ -2026,6 +2070,12 @@
     },
     "done": false
   },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-08-30 13:35:11 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-08-28 10:28:12 +0700"
@@ -2167,6 +2217,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-08-30 13:27:41 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:42:20 +0700"
@@ -2210,6 +2266,7 @@
       "bread": "2025-08-28 11:16:34 +0700",
       "golden_apple": "2025-08-28 12:18:07 +0700",
       "melon_slice": "2025-08-28 17:05:10 +0700",
+      "golden_carrot": "2025-08-30 12:54:54 +0700",
       "enchanted_golden_apple": "2025-08-29 13:40:30 +0700",
       "carrot": "2025-08-28 17:28:16 +0700"
     },
@@ -2299,6 +2356,12 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-08-30 12:27:19 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2025-08-28 10:56:09 +0700"
@@ -2328,6 +2391,12 @@
       "get_stone": "2025-08-28 10:29:09 +0700"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-30 13:03:04 +0700"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
@@ -2590,7 +2659,9 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
-      "kill_venom_spider": "2025-08-29 21:34:41 +0700"
+      "kill_arachnarch": "2025-08-30 12:17:18 +0700",
+      "kill_venom_spider": "2025-08-29 21:34:41 +0700",
+      "kill_nested_spider": "2025-08-30 12:17:21 +0700"
     },
     "done": false
   },
@@ -2796,6 +2867,18 @@
     },
     "done": true
   },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-08-30 12:24:15 +0700"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-08-30 12:23:05 +0700"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -2849,6 +2932,18 @@
       "has_items": "2025-08-28 21:15:02 +0700"
     },
     "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2025-08-30 12:32:37 +0700",
+      "deep_aether:blue_aerglow_forest": "2025-08-30 12:35:36 +0700",
+      "deep_aether:aerglow_forest": "2025-08-30 12:32:52 +0700",
+      "deep_aether:mystic_aerglow_forest": "2025-08-30 12:39:48 +0700",
+      "aether:skyroot_forest": "2025-08-30 12:39:40 +0700",
+      "deep_aether:aerlavender_fields": "2025-08-30 12:39:35 +0700",
+      "deep_aether:golden_heights": "2025-08-30 12:23:09 +0700"
+    },
+    "done": false
   },
   "apotheosis:spawner/capturing": {
     "criteria": {
@@ -2967,6 +3062,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-08-30 12:31:18 +0700"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-08-28 10:33:14 +0700"
@@ -2988,6 +3089,18 @@
   "enigmaticaddons:book/accessories/scorched_charm": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-08-30 12:38:54 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_starlit_arachnarch_special": {
+    "criteria": {
+      "drop_arachnarch": "2025-08-30 12:17:18 +0700"
     },
     "done": true
   },
@@ -3064,6 +3177,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/kill_arachnarch": {
+    "criteria": {
+      "kill_arachnarch": "2025-08-30 12:17:18 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -3106,6 +3225,12 @@
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-08-28 11:15:48 +0700"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-08-30 12:23:57 +0700"
     },
     "done": true
   },
@@ -3206,26 +3331,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-08-29 21:39:16 +0700",
-      "!bit14": "2025-08-29 21:39:16 +0700",
-      "!bit11": "2025-08-29 21:39:16 +0700",
-      "!bit12": "2025-08-29 21:39:16 +0700",
-      "!bit10": "2025-08-29 21:39:16 +0700",
-      "!bit9": "2025-08-29 21:39:16 +0700",
-      "!bit8": "2025-08-29 21:39:16 +0700",
-      "!bit7": "2025-08-29 21:39:16 +0700",
-      "!bit6": "2025-08-29 21:39:16 +0700",
-      "!bit5": "2025-08-29 21:39:16 +0700",
-      "!bit4": "2025-08-29 21:39:16 +0700",
-      "!bit3": "2025-08-29 21:39:16 +0700",
-      "!bit2": "2025-08-29 21:39:16 +0700",
-      "!bit1": "2025-08-29 21:39:16 +0700",
-      "!bit0": "2025-08-29 21:39:16 +0700"
-    },
-    "done": false
-  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-08-28 12:12:18 +0700"
@@ -3261,6 +3366,12 @@
       "has_items": "2025-08-28 17:25:40 +0700"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2025-08-30 13:22:11 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:main/unholy_grail": {
     "criteria": {
@@ -3400,6 +3511,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2025-08-30 13:35:07 +0700"
+    },
+    "done": true
+  },
   "cisco_mod:the_silver_wolf": {
     "criteria": {
       "the_silver_wolf": "2025-08-29 08:58:35 +0700"
@@ -3478,6 +3595,12 @@
       "has_items": "2025-08-29 20:57:58 +0700"
     },
     "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_gloves": "2025-08-30 12:50:15 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/relics/golem_heart": {
     "criteria": {
@@ -3560,6 +3683,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-08-28 10:20:07 +0700"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-08-30 12:23:05 +0700"
     },
     "done": true
   },

@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-30 12:49:01 +0700"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-08-28 12:59:04 +0700"
@@ -137,6 +143,12 @@
       "has_the_recipe": "2025-08-28 12:59:04 +0700"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-08-30 12:49:10 +0700"
+    },
+    "done": false
   },
   "vinery:loam": {
     "criteria": {
@@ -244,6 +256,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 12:59:04 +0700"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-08-30 12:49:10 +0700"
     },
     "done": true
   },
@@ -774,11 +792,23 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-30 12:49:01 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 12:59:05 +0700"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-30 12:43:11 +0700"
+    },
+    "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
@@ -888,6 +918,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2025-08-30 12:43:11 +0700"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-08-28 12:59:04 +0700"
@@ -939,6 +975,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "boar": "2025-08-29 20:47:34 +0700"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-08-30 12:49:10 +0700"
     },
     "done": true
   },
@@ -1102,6 +1144,12 @@
   "royalvariations:bony_king": {
     "criteria": {
       "bony_king": "2025-08-29 09:17:08 +0700"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-08-30 12:49:01 +0700"
     },
     "done": true
   },
@@ -1579,6 +1627,7 @@
       "byg:red_oak_forest": "2025-08-28 13:41:26 +0700",
       "byg:autumnal_forest": "2025-08-28 13:58:03 +0700",
       "byg:cika_woods": "2025-08-29 12:30:41 +0700",
+      "byg:magma_wastes": "2025-08-30 12:49:02 +0700",
       "byg:dacite_ridges": "2025-08-29 09:32:55 +0700",
       "byg:aspen_forest": "2025-08-28 13:20:06 +0700",
       "byg:baobab_savanna": "2025-08-29 10:10:34 +0700",
@@ -1670,21 +1719,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-08-29 20:59:38 +0700",
-      "!bit14": "2025-08-29 20:59:38 +0700",
-      "!bit11": "2025-08-29 20:59:38 +0700",
-      "!bit12": "2025-08-29 20:59:38 +0700",
-      "!bit10": "2025-08-29 20:59:38 +0700",
-      "!bit9": "2025-08-29 20:59:38 +0700",
-      "!bit8": "2025-08-29 20:59:38 +0700",
-      "!bit7": "2025-08-29 20:59:38 +0700",
-      "!bit6": "2025-08-29 20:59:38 +0700",
-      "!bit5": "2025-08-29 20:59:38 +0700",
-      "!bit4": "2025-08-29 20:59:38 +0700",
-      "!bit3": "2025-08-29 20:59:38 +0700",
-      "!bit2": "2025-08-29 20:59:38 +0700",
-      "!bit1": "2025-08-29 20:59:38 +0700",
-      "!bit0": "2025-08-29 20:59:38 +0700"
+      "not_target": "2025-08-30 12:58:29 +0700"
     },
     "done": false
   },
@@ -2006,6 +2041,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-28 18:14:58 +0700"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-08-30 12:49:01 +0700"
     },
     "done": true
   },

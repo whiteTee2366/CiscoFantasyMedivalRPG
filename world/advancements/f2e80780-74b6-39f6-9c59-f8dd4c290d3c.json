@@ -165,7 +165,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-08-28 13:34:09 +0700",
-      "in_better_monster_room": "2025-08-29 14:40:51 +0700"
+      "in_better_monster_room": "2025-08-29 14:40:51 +0700",
+      "in_better_skeleton_dungeon": "2025-08-30 12:11:51 +0700"
     },
     "done": false
   },
@@ -310,6 +311,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-08-28 21:42:21 +0700",
+      "entered_deep_crypt": "2025-08-30 12:13:42 +0700",
       "entered_dungeon_variant": "2025-08-29 14:56:10 +0700"
     },
     "done": false
@@ -377,6 +379,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "meetyourfight:main/rosalyne_kill": {
+    "criteria": {
+      "get_item": "2025-08-30 13:05:11 +0700"
     },
     "done": true
   },
@@ -587,6 +595,7 @@
       "minecraft:pillager": "2025-08-28 20:58:55 +0700",
       "minecraft:skeleton": "2025-08-28 12:18:20 +0700",
       "minecraft:ghast": "2025-08-28 20:51:13 +0700",
+      "minecraft:magma_cube": "2025-08-30 12:15:56 +0700",
       "minecraft:spider": "2025-08-29 14:59:37 +0700",
       "minecraft:creeper": "2025-08-29 13:20:43 +0700",
       "minecraft:wither": "2025-08-29 19:59:09 +0700",
@@ -596,7 +605,8 @@
       "minecraft:husk": "2025-08-28 13:54:46 +0700",
       "minecraft:cave_spider": "2025-08-29 14:41:03 +0700",
       "minecraft:stray": "2025-08-29 14:57:44 +0700",
-      "minecraft:zombie": "2025-08-28 12:18:10 +0700"
+      "minecraft:zombie": "2025-08-28 12:18:10 +0700",
+      "minecraft:drowned": "2025-08-30 12:59:51 +0700"
     },
     "done": false
   },
@@ -615,6 +625,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-29 12:24:34 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter_poison_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-08-30 11:55:08 +0700"
     },
     "done": true
   },
@@ -645,6 +661,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone2": "2025-08-28 12:49:12 +0700",
+      "spellstone1": "2025-08-30 11:52:18 +0700",
       "spellstone4": "2025-08-28 13:06:09 +0700"
     },
     "done": false
@@ -932,6 +949,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-08-30 12:11:51 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -1066,6 +1089,12 @@
     },
     "done": false
   },
+  "blue_skies:everdawn/use_alchemy_table": {
+    "criteria": {
+      "use_alchemy_table": "2025-08-30 13:01:15 +0700"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2025-08-29 13:37:01 +0700"
@@ -1093,6 +1122,12 @@
   "enigmaticaddons:book/relics/antique_bag": {
     "criteria": {
       "has_items": "2025-08-28 14:06:51 +0700"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-08-30 13:08:44 +0700"
     },
     "done": true
   },
@@ -1279,6 +1314,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-30 12:59:30 +0700"
     },
     "done": true
   },
@@ -2357,6 +2398,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-08-30 12:59:20 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 12:22:51 +0700",
@@ -2440,6 +2487,12 @@
   "apotheosis:affix/socket": {
     "criteria": {
       "socket": "2025-08-29 15:59:37 +0700"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-08-30 11:50:47 +0700"
     },
     "done": true
   },
@@ -2530,7 +2583,8 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-08-29 18:29:10 +0700",
-      "hydra_chop": "2025-08-29 18:32:30 +0700"
+      "hydra_chop": "2025-08-29 18:32:30 +0700",
+      "cooked_meef": "2025-08-30 12:12:16 +0700"
     },
     "done": false
   },
@@ -2549,6 +2603,7 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
+      "has_item_1": "2025-08-30 11:52:18 +0700",
       "has_item_2": "2025-08-28 12:49:12 +0700",
       "has_item_4": "2025-08-28 13:06:09 +0700"
     },
@@ -2781,6 +2836,12 @@
     },
     "done": false
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-08-30 12:13:42 +0700"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 12:57:17 +0700",
@@ -2862,6 +2923,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-08-30 11:52:18 +0700"
+    },
+    "done": true
+  },
   "celestisynth:root": {
     "criteria": {
       "obtained_core": "2025-08-29 13:22:29 +0700"
@@ -2871,6 +2938,12 @@
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "meetyourfight:main/rosalyne_summon": {
+    "criteria": {
+      "get_item": "2025-08-30 12:54:54 +0700"
     },
     "done": true
   },
