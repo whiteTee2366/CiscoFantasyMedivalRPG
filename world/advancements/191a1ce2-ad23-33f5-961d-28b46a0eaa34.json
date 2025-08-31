@@ -290,6 +290,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-31 18:27:23 +0700"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:56:18 +0700"
@@ -413,6 +419,12 @@
   "blue_skies:everbright/enter": {
     "criteria": {
       "enter_everbright": "2025-08-29 12:42:33 +0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-08-31 16:10:19 +0700"
     },
     "done": true
   },
@@ -863,6 +875,12 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-08-31 16:08:11 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
@@ -932,6 +950,12 @@
   "enigmaticaddons:book/accessories/thunder_scroll": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-08-31 15:09:32 +0700"
     },
     "done": true
   },
@@ -1014,6 +1038,12 @@
     },
     "done": true
   },
+  "cisco_mod:absolute_balance": {
+    "criteria": {
+      "absolute_balance": "2025-08-31 14:46:41 +0700"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-08-28 10:26:56 +0700"
@@ -1039,6 +1069,7 @@
       "minecraft:deep_ocean": "2025-08-28 21:35:43 +0700",
       "atmospheric:rainforest": "2025-08-31 00:49:44 +0700",
       "quark:glimmering_weald": "2025-08-28 13:52:18 +0700",
+      "minecraft:sunflower_plains": "2025-08-31 16:31:44 +0700",
       "minecraft:birch_forest": "2025-08-28 12:22:34 +0700",
       "minecraft:windswept_hills": "2025-08-28 18:22:35 +0700",
       "minecraft:savanna_plateau": "2025-08-28 13:30:28 +0700",
@@ -1050,6 +1081,7 @@
       "minecraft:snowy_plains": "2025-08-28 18:13:37 +0700",
       "minecraft:snowy_taiga": "2025-08-28 14:49:00 +0700",
       "minecraft:grove": "2025-08-28 12:27:04 +0700",
+      "minecraft:swamp": "2025-08-31 16:11:49 +0700",
       "minecraft:cold_ocean": "2025-08-28 12:28:51 +0700",
       "atmospheric:aspen_parkland": "2025-08-28 10:38:49 +0700",
       "minecraft:forest": "2025-08-28 11:13:23 +0700",
@@ -1061,6 +1093,7 @@
       "minecraft:ocean": "2025-08-28 10:48:27 +0700",
       "minecraft:old_growth_spruce_taiga": "2025-08-28 12:30:50 +0700",
       "minecraft:snowy_beach": "2025-08-28 14:53:49 +0700",
+      "minecraft:windswept_savanna": "2025-08-31 16:11:50 +0700",
       "minecraft:warm_ocean": "2025-08-30 23:38:43 +0700",
       "minecraft:deep_lukewarm_ocean": "2025-08-28 16:25:23 +0700",
       "minecraft:flower_forest": "2025-08-28 13:23:06 +0700",
@@ -1068,6 +1101,7 @@
       "minecraft:frozen_peaks": "2025-08-28 12:27:05 +0700",
       "minecraft:old_growth_birch_forest": "2025-08-28 10:26:57 +0700",
       "minecraft:deep_dark": "2025-08-28 13:53:41 +0700",
+      "atmospheric:kousa_jungle": "2025-08-31 15:44:51 +0700",
       "minecraft:windswept_gravelly_hills": "2025-08-28 18:13:25 +0700",
       "minecraft:savanna": "2025-08-28 13:25:23 +0700",
       "minecraft:plains": "2025-08-28 13:21:35 +0700"
@@ -1092,11 +1126,23 @@
     },
     "done": true
   },
+  "aether:lance_loot": {
+    "criteria": {
+      "lance_loot": "2025-08-31 18:31:56 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:26:57 +0700"
     },
     "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-31 15:53:25 +0700"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1594,6 +1640,12 @@
     },
     "done": false
   },
+  "cisco_mod:regicide": {
+    "criteria": {
+      "regicide": "2025-08-31 14:36:18 +0700"
+    },
+    "done": true
+  },
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
@@ -1634,6 +1686,12 @@
   "aquamirae:recipes/sharp_bones": {
     "criteria": {
       "has_item": "2025-08-28 18:12:27 +0700"
+    },
+    "done": true
+  },
+  "quark:instamine_deepslate": {
+    "criteria": {
+      "instamine_deepslate": "2025-08-31 18:23:35 +0700"
     },
     "done": true
   },
@@ -2109,11 +2167,25 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-31 18:27:23 +0700"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
     },
     "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:mystic_aerglow_forest": "2025-08-31 18:29:25 +0700",
+      "aether:skyroot_forest": "2025-08-31 18:28:50 +0700",
+      "deep_aether:golden_heights": "2025-08-31 18:19:53 +0700"
+    },
+    "done": false
   },
   "cisco_mod:infernal_demons_wrath": {
     "criteria": {
@@ -2124,6 +2196,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-08-31 00:38:08 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-08-31 16:06:23 +0700"
     },
     "done": true
   },
@@ -2201,6 +2279,12 @@
     },
     "done": true
   },
+  "majruszsenchantments:scholar": {
+    "criteria": {
+      "has_met_requirement": "2025-08-31 17:41:19 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
@@ -2240,6 +2324,12 @@
   "enigmaticaddons:book/accessories/scorched_charm": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-08-31 18:30:43 +0700"
     },
     "done": true
   },
@@ -2316,6 +2406,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-08-31 18:27:23 +0700"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-08-28 10:26:56 +0700"
@@ -2325,18 +2421,24 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-08-28 11:11:42 +0700",
+      "byg:prairie": "2025-08-31 16:31:15 +0700",
+      "byg:orchard": "2025-08-31 16:34:11 +0700",
       "byg:autumnal_forest": "2025-08-28 18:12:42 +0700",
       "byg:magma_wastes": "2025-08-28 15:02:58 +0700",
       "byg:subzero_hypogeal": "2025-08-28 22:30:11 +0700",
       "byg:embur_bog": "2025-08-28 22:27:07 +0700",
       "byg:dacite_ridges": "2025-08-28 12:27:01 +0700",
+      "byg:autumnal_valley": "2025-08-31 15:43:33 +0700",
       "byg:aspen_forest": "2025-08-28 10:47:34 +0700",
+      "byg:skyris_vale": "2025-08-31 15:43:30 +0700",
+      "byg:cardinal_tundra": "2025-08-31 15:43:34 +0700",
       "byg:coniferous_forest": "2025-08-28 14:44:37 +0700",
       "byg:basalt_barrera": "2025-08-28 13:03:27 +0700",
       "byg:temperate_rainforest": "2025-08-28 10:38:43 +0700",
       "byg:maple_taiga": "2025-08-28 19:11:31 +0700",
       "byg:mojave_desert": "2025-08-30 23:06:21 +0700",
       "byg:frosted_coniferous_forest": "2025-08-28 14:45:31 +0700",
+      "byg:dacite_shore": "2025-08-31 15:43:16 +0700",
       "byg:windswept_desert": "2025-08-30 23:38:44 +0700",
       "byg:frosted_taiga": "2025-08-28 18:10:56 +0700"
     },
@@ -2398,7 +2500,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-08-31 01:20:34 +0700"
+      "target": "2025-08-31 18:35:11 +0700"
     },
     "done": false
   },
@@ -2500,6 +2602,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2025-08-31 18:27:23 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 12:25:47 +0700",
@@ -2510,6 +2618,12 @@
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:the_silver_wolf": {
+    "criteria": {
+      "the_silver_wolf": "2025-08-31 15:09:32 +0700"
     },
     "done": true
   },

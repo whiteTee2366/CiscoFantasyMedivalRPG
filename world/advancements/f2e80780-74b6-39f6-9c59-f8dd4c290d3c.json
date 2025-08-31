@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-08-31 17:30:38 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
     "criteria": {
       "has_items": "2025-08-29 12:27:34 +0700"
@@ -605,6 +611,7 @@
       "minecraft:husk": "2025-08-28 13:54:46 +0700",
       "minecraft:cave_spider": "2025-08-29 14:41:03 +0700",
       "minecraft:stray": "2025-08-29 14:57:44 +0700",
+      "minecraft:silverfish": "2025-08-31 17:35:15 +0700",
       "minecraft:zombie": "2025-08-28 12:18:10 +0700",
       "minecraft:drowned": "2025-08-30 12:59:51 +0700"
     },
@@ -955,6 +962,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2025-08-31 17:30:38 +0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -1104,6 +1117,12 @@
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-08-29 14:40:51 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2025-08-31 13:10:38 +0700"
     },
     "done": true
   },
@@ -1269,6 +1288,7 @@
       "minecraft:ocean": "2025-08-28 12:20:38 +0700",
       "minecraft:snowy_beach": "2025-08-28 20:19:34 +0700",
       "minecraft:deep_lukewarm_ocean": "2025-08-29 14:57:09 +0700",
+      "atmospheric:scrubland": "2025-08-31 17:19:36 +0700",
       "minecraft:frozen_peaks": "2025-08-28 12:35:16 +0700",
       "minecraft:old_growth_birch_forest": "2025-08-28 10:20:54 +0700",
       "atmospheric:laurel_forest": "2025-08-29 13:30:57 +0700",
@@ -1522,6 +1542,12 @@
       "has_parent_recipe": "2025-08-29 13:58:09 +0700"
     },
     "done": false
+  },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-31 14:36:17 +0700"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/accessories/heaven_scroll": {
     "criteria": {
@@ -1857,6 +1883,12 @@
       "carrot": "2025-08-28 12:18:32 +0700"
     },
     "done": false
+  },
+  "cisco_mod:regicide": {
+    "criteria": {
+      "regicide": "2025-08-31 14:36:18 +0700"
+    },
+    "done": true
   },
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
@@ -2361,6 +2393,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-08-31 17:31:06 +0700"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
@@ -2384,6 +2422,12 @@
       "has_the_recipe": "2025-08-28 10:20:53 +0700"
     },
     "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:yagroot_swamp": "2025-08-31 17:31:06 +0700"
+    },
+    "done": false
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
@@ -2842,6 +2886,12 @@
     },
     "done": false
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-08-31 13:10:33 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 12:57:17 +0700",
@@ -3017,6 +3067,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-08-28 10:20:53 +0700"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-08-31 17:31:06 +0700"
     },
     "done": true
   },

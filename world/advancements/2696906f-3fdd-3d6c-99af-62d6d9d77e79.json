@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-08-31 17:53:38 +0700"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -75,6 +81,12 @@
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "trophy": "2025-08-31 14:14:19 +0700"
     },
     "done": true
   },
@@ -153,6 +165,12 @@
   "majruszsaccessories:discount_voucher": {
     "criteria": {
       "picked_up_accessory": "2025-08-29 15:22:44 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-08-31 17:30:32 +0700"
     },
     "done": true
   },
@@ -244,6 +262,12 @@
   "vinery:cherry_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-08-31 13:23:23 +0700"
     },
     "done": true
   },
@@ -344,6 +368,12 @@
       "has_items": "2025-08-29 11:45:56 +0700"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-31 14:03:26 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -450,6 +480,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-08-31 14:14:19 +0700"
     },
     "done": true
   },
@@ -572,10 +608,12 @@
       "minecraft:spider": "2025-08-28 21:08:41 +0700",
       "minecraft:creeper": "2025-08-28 21:08:38 +0700",
       "minecraft:phantom": "2025-08-29 10:57:41 +0700",
+      "minecraft:zombified_piglin": "2025-08-31 14:28:14 +0700",
       "minecraft:husk": "2025-08-28 18:01:17 +0700",
       "minecraft:cave_spider": "2025-08-28 23:25:14 +0700",
       "minecraft:stray": "2025-08-28 23:26:28 +0700",
       "minecraft:silverfish": "2025-08-31 00:15:33 +0700",
+      "minecraft:enderman": "2025-08-31 13:55:08 +0700",
       "minecraft:zombie": "2025-08-28 17:58:54 +0700",
       "minecraft:zombie_villager": "2025-08-30 20:09:55 +0700",
       "savage_and_ravage:skeleton_villager": "2025-08-28 17:58:48 +0700"
@@ -627,6 +665,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone2": "2025-08-29 14:32:13 +0700",
+      "spellstone1": "2025-08-31 13:37:51 +0700",
       "spellstone3": "2025-08-28 21:42:18 +0700"
     },
     "done": false
@@ -682,6 +721,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-08-31 14:15:53 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
@@ -703,6 +748,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-08-28 20:52:00 +0700"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2025-08-31 13:52:34 +0700"
     },
     "done": true
   },
@@ -889,6 +940,12 @@
   "endrem:main/undead_eye": {
     "criteria": {
       "undead_eye": "2025-08-30 22:38:37 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2025-08-31 17:30:32 +0700"
     },
     "done": true
   },
@@ -1208,6 +1265,7 @@
       "atmospheric:rainforest_basin": "2025-08-28 22:45:53 +0700",
       "atmospheric:rainforest": "2025-08-28 22:45:58 +0700",
       "minecraft:eroded_badlands": "2025-08-28 18:58:11 +0700",
+      "minecraft:frozen_river": "2025-08-31 15:23:19 +0700",
       "minecraft:birch_forest": "2025-08-28 23:17:33 +0700",
       "minecraft:bamboo_jungle": "2025-08-28 23:18:58 +0700",
       "minecraft:wooded_badlands": "2025-08-29 21:21:55 +0700",
@@ -1415,6 +1473,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-08-31 13:42:16 +0700"
+    },
+    "done": true
+  },
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-08-28 18:21:22 +0700"
@@ -1514,6 +1578,18 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-29 10:14:13 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-08-31 17:33:21 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2025-08-31 17:33:58 +0700"
     },
     "done": true
   },
@@ -1792,6 +1868,7 @@
     "criteria": {
       "cooked_beef": "2025-08-28 18:29:40 +0700",
       "golden_apple": "2025-08-31 01:21:18 +0700",
+      "golden_carrot": "2025-08-31 14:14:50 +0700",
       "cooked_salmon": "2025-08-30 15:07:49 +0700"
     },
     "done": false
@@ -1825,6 +1902,13 @@
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2025-08-31 14:14:28 +0700",
+      "canopy_sapling": "2025-08-31 14:15:00 +0700"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/hell_blade_charm": {
     "criteria": {
@@ -2110,6 +2194,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-08-31 14:12:58 +0700"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-08-28 17:33:47 +0700"
@@ -2288,6 +2378,12 @@
     },
     "done": true
   },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2025-08-31 14:20:41 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_axe": {
     "criteria": {
       "has_items": "2025-08-30 13:13:34 +0700"
@@ -2353,6 +2449,12 @@
       "has_the_recipe": "2025-08-28 17:33:47 +0700"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-31 14:03:26 +0700"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_purple": {
     "criteria": {
@@ -2464,6 +2566,12 @@
     },
     "done": true
   },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-08-31 15:36:13 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-08-28 17:33:47 +0700"
@@ -2550,6 +2658,7 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
+      "has_item_1": "2025-08-31 13:37:51 +0700",
       "has_item_2": "2025-08-29 14:32:13 +0700",
       "has_item_3": "2025-08-28 21:42:18 +0700"
     },
@@ -2564,6 +2673,12 @@
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-08-28 18:46:32 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-08-31 14:03:26 +0700"
     },
     "done": true
   },
@@ -2589,6 +2704,7 @@
       "byg:red_oak_forest": "2025-08-28 20:44:30 +0700",
       "byg:autumnal_forest": "2025-08-28 20:47:45 +0700",
       "byg:cika_woods": "2025-08-29 13:11:25 +0700",
+      "byg:warped_desert": "2025-08-31 14:27:48 +0700",
       "byg:magma_wastes": "2025-08-28 19:50:05 +0700",
       "byg:atacama_desert": "2025-08-29 14:37:04 +0700",
       "byg:tropical_rainforest": "2025-08-29 14:37:03 +0700",
@@ -2640,6 +2756,18 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-08-31 13:28:43 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2025-08-31 13:44:28 +0700"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-28 18:29:40 +0700"
@@ -2667,6 +2795,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-08-28 17:33:47 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-31 13:44:28 +0700"
     },
     "done": true
   },
@@ -2767,6 +2901,12 @@
       "log_spam_fixer": "2025-08-28 17:33:47 +0700"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2025-08-31 14:03:26 +0700"
+    },
+    "done": true
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
@@ -2885,6 +3025,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-08-31 13:37:51 +0700"
+    },
+    "done": true
+  },
   "celestisynth:root": {
     "criteria": {
       "obtained_core": "2025-08-31 01:04:51 +0700"
@@ -2902,6 +3048,12 @@
       "get_item": "2025-08-30 12:57:53 +0700"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-08-31 14:14:19 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {

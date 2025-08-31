@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-08-31 17:53:19 +0700"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -192,6 +198,12 @@
     },
     "done": true
   },
+  "deep_aether:aether_champion": {
+    "criteria": {
+      "slider": "2025-08-31 18:19:29 +0700"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/enigmatic_elytra": {
     "criteria": {
       "has_the_recipe": "2025-08-29 12:27:44 +0700"
@@ -216,6 +228,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-31 16:05:20 +0700"
+    },
+    "done": true
+  },
   "royalvariations:explosive_king": {
     "criteria": {
       "explosive_king": "2025-08-29 12:50:40 +0700"
@@ -227,6 +245,12 @@
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-31 16:05:03 +0700"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
@@ -285,6 +309,12 @@
   "enigmaticlegacy:book/misc/mending_mixture": {
     "criteria": {
       "has_the_recipe": "2025-08-28 17:19:37 +0700"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-08-31 09:42:02 +0700"
     },
     "done": true
   },
@@ -502,6 +532,12 @@
     },
     "done": true
   },
+  "meetyourfight:main/rosalyne_kill": {
+    "criteria": {
+      "get_item": "2025-08-31 14:41:47 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:20:08 +0700"
@@ -715,7 +751,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-28 10:28:11 +0700",
-      "opened_chest": "2025-08-28 10:28:07 +0700"
+      "opened_chest": "2025-08-28 10:28:07 +0700",
+      "opened_cart": "2025-08-31 16:05:20 +0700"
     },
     "done": false
   },
@@ -764,6 +801,7 @@
       "minecraft:creeper": "2025-08-28 17:15:36 +0700",
       "minecraft:wither": "2025-08-29 10:20:01 +0700",
       "minecraft:evoker": "2025-08-28 20:06:31 +0700",
+      "minecraft:slime": "2025-08-31 16:10:09 +0700",
       "minecraft:phantom": "2025-08-30 13:03:04 +0700",
       "minecraft:zombified_piglin": "2025-08-29 08:48:50 +0700",
       "minecraft:witch": "2025-08-28 10:50:01 +0700",
@@ -965,6 +1003,12 @@
   "enigmaticlegacy:recipes/generic/etherium_ingot_from_blasting": {
     "criteria": {
       "has_items": "2025-08-28 21:15:03 +0700"
+    },
+    "done": true
+  },
+  "majruszsaccessories:dream_catcher": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-31 09:18:08 +0700"
     },
     "done": true
   },
@@ -1266,6 +1310,12 @@
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-08-31 09:41:17 +0700"
     },
     "done": true
   },
@@ -1650,6 +1700,12 @@
     },
     "done": false
   },
+  "aether:lance_loot": {
+    "criteria": {
+      "lance_loot": "2025-08-31 18:31:07 +0700"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-08-28 10:20:08 +0700"
@@ -1665,6 +1721,12 @@
   "simplyswords:soulkeeper": {
     "criteria": {
       "requirement": "2025-08-29 20:36:39 +0700"
+    },
+    "done": true
+  },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "apply_color_rune": "2025-08-31 09:30:50 +0700"
     },
     "done": true
   },
@@ -2411,6 +2473,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-08-31 14:46:45 +0700"
+    },
+    "done": true
+  },
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-08-28 11:58:09 +0700"
@@ -2892,6 +2960,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-31 16:05:03 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -3124,8 +3198,10 @@
       "deep_aether:blue_aerglow_forest": "2025-08-30 12:35:36 +0700",
       "deep_aether:aerglow_forest": "2025-08-30 12:32:52 +0700",
       "deep_aether:mystic_aerglow_forest": "2025-08-30 12:39:48 +0700",
+      "aether:skyroot_meadow": "2025-08-31 18:32:44 +0700",
       "aether:skyroot_forest": "2025-08-30 12:39:40 +0700",
       "deep_aether:aerlavender_fields": "2025-08-30 12:39:35 +0700",
+      "deep_aether:yagroot_swamp": "2025-08-31 17:29:52 +0700",
       "deep_aether:golden_heights": "2025-08-30 12:23:09 +0700"
     },
     "done": false
@@ -3197,6 +3273,12 @@
       "in_temple_nether_basalt": "2025-08-29 09:58:01 +0700"
     },
     "done": false
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-31 11:00:56 +0700"
+    },
+    "done": true
   },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
@@ -3457,6 +3539,7 @@
       "byg:rainbow_beach": "2025-08-28 11:35:08 +0700",
       "byg:coconino_meadow": "2025-08-29 12:06:23 +0700",
       "byg:sythian_torrids": "2025-08-29 12:58:05 +0700",
+      "byg:orchard": "2025-08-31 15:33:24 +0700",
       "byg:red_oak_forest": "2025-08-28 11:34:42 +0700",
       "byg:autumnal_forest": "2025-08-28 12:49:25 +0700",
       "byg:cika_woods": "2025-08-29 13:22:52 +0700",
@@ -3464,6 +3547,7 @@
       "byg:magma_wastes": "2025-08-28 11:37:58 +0700",
       "byg:subzero_hypogeal": "2025-08-29 10:11:16 +0700",
       "byg:embur_bog": "2025-08-29 10:15:20 +0700",
+      "byg:araucaria_savanna": "2025-08-31 09:53:19 +0700",
       "byg:wailing_garth": "2025-08-29 10:15:19 +0700",
       "byg:crag_gardens": "2025-08-29 14:22:25 +0700",
       "byg:dacite_ridges": "2025-08-28 11:06:23 +0700",
