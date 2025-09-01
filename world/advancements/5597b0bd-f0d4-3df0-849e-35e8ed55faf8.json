@@ -568,6 +568,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-09-01 20:28:12 +0700"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -774,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-09-01 20:45:57 +0700"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -807,6 +819,7 @@
       "minecraft:witch": "2025-08-28 10:50:01 +0700",
       "minecraft:wither_skeleton": "2025-08-28 18:45:45 +0700",
       "minecraft:husk": "2025-08-28 18:10:59 +0700",
+      "minecraft:ender_dragon": "2025-09-01 20:45:57 +0700",
       "minecraft:shulker": "2025-08-28 19:03:33 +0700",
       "minecraft:cave_spider": "2025-08-28 12:38:25 +0700",
       "minecraft:piglin": "2025-08-28 22:41:40 +0700",
@@ -1057,6 +1070,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-01 20:44:53 +0700"
     },
     "done": true
   },
@@ -1437,6 +1456,12 @@
   "cisco_mod:nightfall_ad": {
     "criteria": {
       "nightfall_ad": "2025-08-31 00:52:09 +0700"
+    },
+    "done": true
+  },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2025-09-01 20:24:30 +0700"
     },
     "done": true
   },
@@ -2040,6 +2065,12 @@
     },
     "done": true
   },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2025-09-01 20:29:02 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
@@ -2079,6 +2110,18 @@
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:20:06 +0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-09-01 20:47:23 +0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-09-01 20:45:57 +0700"
     },
     "done": true
   },
@@ -3065,6 +3108,12 @@
     },
     "done": true
   },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2025-09-01 20:43:07 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_axe": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 17:20:34 +0700",
@@ -3650,6 +3699,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-09-01 20:28:46 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/ichor_droplet": {
     "criteria": {
       "has_items": "2025-08-28 23:00:25 +0700"
@@ -3830,6 +3885,12 @@
     },
     "done": false
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-09-01 20:28:33 +0700"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-08-28 10:58:08 +0700"
@@ -3852,6 +3913,12 @@
   "enigmaticlegacy:book/tools/astral_breaker": {
     "criteria": {
       "has_the_recipe": "2025-08-29 08:53:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-01 20:44:53 +0700"
     },
     "done": true
   },
@@ -3959,6 +4026,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-09-01 20:47:36 +0700"
+    },
+    "done": true
+  },
   "blue_skies:progression/unlock_nature_key_trade": {
     "criteria": {
       "click_keystone": "2025-08-29 11:29:38 +0700"
@@ -3998,6 +4071,12 @@
   "enigmaticlegacy:recipes/generic/etherium_helmet": {
     "criteria": {
       "has_items": "2025-08-29 08:53:57 +0700"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-09-01 20:28:41 +0700"
     },
     "done": true
   },

@@ -268,7 +268,8 @@
     "criteria": {
       "entered_pillager_camp": "2025-08-30 23:10:54 +0700",
       "entered_pirate_ship": "2025-08-28 14:45:49 +0700",
-      "entered_fishing_ship": "2025-08-28 13:03:45 +0700"
+      "entered_fishing_ship": "2025-08-28 13:03:45 +0700",
+      "entered_druid_circle": "2025-09-01 20:19:36 +0700"
     },
     "done": false
   },
@@ -641,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-09-01 20:41:47 +0700"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
@@ -686,6 +693,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-01 20:44:48 +0700"
     },
     "done": true
   },
@@ -1080,8 +1093,10 @@
       "minecraft:stony_shore": "2025-08-28 10:31:42 +0700",
       "minecraft:snowy_plains": "2025-08-28 18:13:37 +0700",
       "minecraft:snowy_taiga": "2025-08-28 14:49:00 +0700",
+      "minecraft:dripstone_caves": "2025-09-01 20:41:23 +0700",
       "minecraft:grove": "2025-08-28 12:27:04 +0700",
       "minecraft:swamp": "2025-08-31 16:11:49 +0700",
+      "atmospheric:dunes": "2025-09-01 20:19:19 +0700",
       "minecraft:cold_ocean": "2025-08-28 12:28:51 +0700",
       "atmospheric:aspen_parkland": "2025-08-28 10:38:49 +0700",
       "minecraft:forest": "2025-08-28 11:13:23 +0700",
@@ -1363,6 +1378,12 @@
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-08-28 10:26:56 +0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-09-01 20:45:57 +0700"
     },
     "done": true
   },
@@ -2422,6 +2443,7 @@
     "criteria": {
       "byg:allium_fields": "2025-08-28 11:11:42 +0700",
       "byg:prairie": "2025-08-31 16:31:15 +0700",
+      "byg:rainbow_beach": "2025-09-01 20:27:10 +0700",
       "byg:orchard": "2025-08-31 16:34:11 +0700",
       "byg:autumnal_forest": "2025-08-28 18:12:42 +0700",
       "byg:magma_wastes": "2025-08-28 15:02:58 +0700",
@@ -2431,7 +2453,9 @@
       "byg:autumnal_valley": "2025-08-31 15:43:33 +0700",
       "byg:aspen_forest": "2025-08-28 10:47:34 +0700",
       "byg:skyris_vale": "2025-08-31 15:43:30 +0700",
+      "byg:imparius_grove": "2025-09-01 20:44:53 +0700",
       "byg:cardinal_tundra": "2025-08-31 15:43:34 +0700",
+      "byg:baobab_savanna": "2025-09-01 20:26:32 +0700",
       "byg:coniferous_forest": "2025-08-28 14:44:37 +0700",
       "byg:basalt_barrera": "2025-08-28 13:03:27 +0700",
       "byg:temperate_rainforest": "2025-08-28 10:38:43 +0700",
@@ -2500,7 +2524,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-08-31 18:35:11 +0700"
+      "not_target": "2025-09-01 20:47:18 +0700"
     },
     "done": false
   },
@@ -2649,6 +2673,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-08-28 12:24:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-01 20:44:48 +0700"
     },
     "done": true
   },
